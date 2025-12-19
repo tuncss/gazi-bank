@@ -1,5 +1,16 @@
 # 🏦 Gazi Bank - Mobil Bankacılık Uygulaması
 
+## 👥 Proje Ekibi
+
+| Öğrenci Adı | Öğrenci No |
+|-------------|------------|
+| Mehmet Emre Kahraman | 24118080056 |
+| Oğuz Giray Gök | 24118080034 |
+| İsmail İbiş | 24118080006 |
+| Mustafa Tunç | 21118080724 |
+
+---
+
 Gazi Bank, Android platformu için geliştirilmiş yerel (offline) bir bankacılık simülasyon uygulamasıdır. SQLite veritabanı kullanarak kullanıcı hesap yönetimi, para transferi ve işlem geçmişi takibi gibi temel bankacılık işlemlerini gerçekleştirir.
 
 ## 🛠️ Teknolojiler
